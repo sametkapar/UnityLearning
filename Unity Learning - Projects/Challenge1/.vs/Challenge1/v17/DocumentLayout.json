@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\unity learning - projects\\challenge1\\assets\\challenge 1\\scripts\\spinpropellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\spinpropellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\unity learning - projects\\challenge1\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548588F5-FCF4-6AB8-E5DD-1FCD41B39F02}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpinPropellerX.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\SpinPropellerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:26:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:18:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Unity Learning - Projects\\Challenge1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:12:28.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
