@@ -534,6 +534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 100046, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: 814f4326a50812947b2469896d89a215, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -781,8 +785,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalInput: 0
-  speed: 10
-  xRange: 10
+  verticalInput: 0
+  speed: 15
+  xRange: 15
+  zRange: 10
+  minusZRange: -2
   projectilePrefab: {fileID: 8604960707915383802, guid: b50dc9df30ab1044bada14007448baa6, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
